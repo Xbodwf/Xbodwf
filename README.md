@@ -8,5 +8,5 @@ Csharp,Javascript,Typescript,HTML,CSS,Batchfile,Powershell
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xbodwf)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flutas-web&repo=Re_ADOJAS)](https://github.com/flutas-web/Re_ADOJAS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=Xbodwf)](https://github.com/Xbodwf/Re_ADOJAS)
 
