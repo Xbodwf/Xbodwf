@@ -1,7 +1,10 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Xbodwf)
+
 ```typescript
 import { registerUser as register,Info } from '@/register'
+
 register(
   class Xbodwf extends Info {
     readonly name: string = 'Xbodwf'
@@ -24,12 +27,3 @@ register(
   }
 )
 ```
-
-![](https://komarev.com/ghpvc/?username=Xbodwf)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Xbodwf&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xbodwf)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xbodwf&repo=Re_ADOJAS)](https://github.com/Xbodwf/Re_ADOJAS)
-
