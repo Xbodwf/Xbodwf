@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![](https://komarev.com/ghpvc/?username=Xbodwf)
 
 ```typescript
@@ -15,6 +13,7 @@ register(
       "X": "@Xbodwf",
       "Youtube": "@xbodwf",
       "Facebook": "www.facebook.com/profile.php?id=61578291371044",
+      "QQ": ["3795750764"],
       "Email": ["xbodwf@outlook.com", "xbodw@gmail.com"]
     }
     constructor() {
@@ -27,3 +26,21 @@ register(
   }
 )
 ```
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Xbodwf&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
+</a>
+
+Hello,I'm Xbodwf.
+
+I work with Javascript,Typescript,Csharp,Kotlin.
+Programming is my habit.
+
+
+<details>
+  <summary>details</summary>
+
+  ```txt
+  website: https://xbodwf.github.io (wip)
+  ```
+</details>
