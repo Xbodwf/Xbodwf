@@ -31,6 +31,10 @@ register(
   <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Xbodwf&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
 </a>
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xbodwf" />
+</a>
+
 Hello,I'm Xbodwf.
 
 I work with Javascript,Typescript,Csharp,Kotlin.
