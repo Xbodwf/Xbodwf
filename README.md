@@ -45,7 +45,5 @@ Programming is my habit.
   ```txt
   website: https://xbodwf.github.io (wip)
   ```
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xbodwf" />
-  </a>
+  ![](https://github-readme-stats-azure-alpha-60.vercel.app/api/top-langs?username=Xbodwf&langs_count=6&card_width=320&theme=transparent&locale=cn&hide_border=true&layout=compact)
 </details>
