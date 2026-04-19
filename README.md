@@ -46,4 +46,7 @@ Programming is my habit.
   website: https://xbodwf.github.io (wip)
   ```
   ![](https://github-readme-stats-azure-alpha-60.vercel.app/api/top-langs?username=Xbodwf&langs_count=6&card_width=320&theme=transparent&locale=cn&hide_border=true&layout=compact)
+
+  [![Star History Chart](https://api.star-history.com/svg?repos=Xbodwf/Iridium,Xbodwf/phantom-mock,Xbodwf/astrbot_plugin_fortnue,adofaiex/Re_ADOJAS,adofaiex/ADOFAI-JS,adofaiex/Relief&type=Date)](https://github.com/Xbodwf)
+
 </details>
